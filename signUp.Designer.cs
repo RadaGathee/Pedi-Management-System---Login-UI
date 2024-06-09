@@ -61,7 +61,7 @@
 			// 
 			this.usernameTextBox.BackColor = System.Drawing.Color.Honeydew;
 			this.usernameTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.usernameTextBox.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+			this.usernameTextBox.ForeColor = System.Drawing.Color.Gold;
 			this.usernameTextBox.Location = new System.Drawing.Point(42, 303);
 			this.usernameTextBox.Multiline = true;
 			this.usernameTextBox.Name = "usernameTextBox";
