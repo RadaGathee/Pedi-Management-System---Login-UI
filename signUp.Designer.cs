@@ -119,7 +119,7 @@
 			this.signUpBtn1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
 			this.signUpBtn1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.signUpBtn1.ForeColor = System.Drawing.Color.Gold;
-			this.signUpBtn1.Location = new System.Drawing.Point(42, 626);
+			this.signUpBtn1.Location = new System.Drawing.Point(42, 627);
 			this.signUpBtn1.Name = "signUpBtn1";
 			this.signUpBtn1.Size = new System.Drawing.Size(278, 48);
 			this.signUpBtn1.TabIndex = 8;
@@ -134,7 +134,7 @@
 			this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
 			this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button2.ForeColor = System.Drawing.Color.Gold;
-			this.button2.Location = new System.Drawing.Point(356, 626);
+			this.button2.Location = new System.Drawing.Point(356, 627);
 			this.button2.Name = "button2";
 			this.button2.Size = new System.Drawing.Size(82, 48);
 			this.button2.TabIndex = 9;
